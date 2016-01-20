@@ -8,6 +8,8 @@ urltoscrape = "http://time.com/3652421/geopolitical-risks-2015-ian-bremmer-euras
 print urltoscrape
 myage ="46"
 print myage
+urltoscrape =urltoscrape+"p1"
+print urltoscrape
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
 #
