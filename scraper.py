@@ -7,7 +7,7 @@ print 'hello'
 urltoscrape = "http://time.com/3652421/geopolitical-risks-2015-ian-bremmer-eurasia-group/"
 print urltoscrape
 myage ="46"
-print urltoscrap
+print urltoscrape
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
 #
