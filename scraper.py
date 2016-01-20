@@ -4,6 +4,8 @@
 # import scraperwiki
 # import lxml.html
 print 'hello'
+urltoscrape = "http://time.com/3652421/geopolitical-risks-2015-ian-bremmer-eurasia-group/"
+print urltoscrape
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
 #
